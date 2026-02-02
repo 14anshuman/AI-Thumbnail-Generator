@@ -1,8 +1,7 @@
-# AI Thumbnail Generator
+🎨 AI Thumbnail Generator
 
-An AI-powered fullstack application to generate **custom YouTube thumbnails** using generative AI.  
-Built with **MERN stack (MongoDB, Express, React, Node.js)** and integrated with AI models for prompt-based thumbnail generation and Cloudinary for storing results.
-
+An AI-powered full-stack application that helps creators generate high-quality, customizable YouTube thumbnails using generative AI 🤖.
+Users can define prompts, visual styles, aspect ratios, and color schemes, and the system automatically produces visually optimized thumbnails 🚀.
 ---
 
 ## 🚀 Features
